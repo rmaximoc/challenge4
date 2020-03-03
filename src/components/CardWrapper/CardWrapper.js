@@ -8,7 +8,7 @@ const CardWrapper = ({ data }) => {
     <Container>
       <PostCard data={data} />
       <hr style={{ width: '95%', border: '0.5px solid #EEEEEE' }} />
-      {data.comments.map(card => <CommentCard data={card} />)}
+      {data.comments.map(card => <CommentCard key={data.id} data={card} />)}
     </Container>
   )
 }

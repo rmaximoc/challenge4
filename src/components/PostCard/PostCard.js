@@ -7,12 +7,11 @@ import {
   PostDate,
   PostInfo
 } from './PostCard.style'
-import avatar from '../../assets/images/avatar.png'
 
 const PostCard = ({ data }) => (
   <Container>
     <UserContent>
-      <img src={avatar} alt="avatar"/>
+      <img src={data.author.avatar} alt="avatar"/>
       <PostInfo>
         <UserName>
           {data.author.name}
