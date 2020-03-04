@@ -4,7 +4,7 @@ import logo from '../../assets/images/facebookLogo.png'
 
 const Header = () => (
   <Box>
-    <img src={logo} alt=""/>
+    <img src={logo} alt="logo"/>
   </Box>
 )
 

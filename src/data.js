@@ -16,7 +16,7 @@ const data = {
         {
           id: 1,
           author: {
-            name: "Diego Fernandes",
+            name: "Pedro Fernandes",
             avatar: avatar2
           },
           content: "No meu xinélo da humildade eu gostaria muito de ver o Neymar e o Ganso. Por que eu acho que.... 11 entre 10 brasileiros gostariam. Você veja, eu já vi, parei de ver. Voltei a ver, e acho que o Neymar e o Ganso têm essa capacidade de fazer a gente olhar."
@@ -26,7 +26,7 @@ const data = {
     {
       id: 2,
       author: {
-        name: "Fernando Costa",
+        name: "Fernanda Costa",
         avatar: avatar3
       },
       date: "05 Jun 2019",
@@ -35,7 +35,7 @@ const data = {
         {
           id: 1,
           author: {
-            name: "Diego Fernandes",
+            name: "Pedro Fernandes",
             avatar: avatar2
           },
           content: "Ai você fala o seguinte: '- Mas vocês acabaram isso?' Vou te falar: -'Não, está em andamento!' Tem obras que 'vai' durar pra depois de 2010. Agora, por isso, nós já não desenhamos, não começamos a fazer projeto do que nós 'podêmo fazê'? 11, 12, 13, 14... Por que é que não?"
